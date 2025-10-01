@@ -39,17 +39,17 @@
 
 ## [3] 🗂 프로젝트 구조
 
+```bash
 PJT/
-├── README.md # 프로젝트 소개 문서
-├── 브라질_진출_전략_요약.pdf # 최종 발표용 문서 (PPT → PDF 변환)
+├── README.md                          # 프로젝트 소개 문서
+├── 브라질_진출_전략_요약.pdf              # 최종 발표용 문서 (PPT → PDF 변환)
 ├── analysis/
-│ └── olist_repurchase_analysis.ipynb # 전체 분석 노트북
+│   └── olist_repurchase_analysis.ipynb   # 전체 분석 노트북
 ├── data/
-│ └── olist_sample_data.csv # Olist 데이터 샘플
+│   └── olist_sample_data.csv            # Olist 데이터 샘플
 └── images/
-└── repurchase_plot.png # 분석 결과 시각화 이미지
-
-
+    └── repurchase_plot.png              # 분석 결과 시각화 이미지
+```
 ---
 
 ## [4] 📂 데이터셋 안내
@@ -72,6 +72,5 @@ PJT/
 ## 🙋‍♂️ 만든 사람
 
 - 이성우  
-- [GitHub Profile](https://github.com/db030dbb)
 
 ---
